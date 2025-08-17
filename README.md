@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Mehdi! 👋  
 
-<!--
-**Mehdic01/Mehdic01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering graduate passionate about **Application Development, Backend Development, Frontend Development and AI concepts**. 🚀  
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- 🌱 I am currently working on fullstack and AI-based applications. 
+- 💡 Interested in AI-driven applications and mobile/web development  
+- 🎯 Goal: Building impactful full-stack applications with some AI features that solve real_world problems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 My Key Projects
+- **Hospital Appointment System** – Full-stack Flutter + Spring Boot app  
+- **Private Chef App** – Recipe recommendation system using AI  
+
+## 🔹 My Interests
+- Artificial Intelligence 🤖
+- Image Processing 📷
+- Web & Mobile Development 📱
+
+## 📫 Reach Me
+- ✉️ Email: mehdinov16@gmail.com    
+- 🌐 LinkedIn: https://www.linkedin.com/in/mehdimohammadi57/
+
+## 🛠️ Skills
+- **Programming:** Python, Java, Dart, JavaScript  
+- **Backend Frameworks:** Flask, Django, Spring Boot, Node.js
+- **Frontend Frameworks:** Flutter
+- **Tools:** Git, Docker,
+- **Database Management:** MySQL, MSSQL, PostgreSQL
+
