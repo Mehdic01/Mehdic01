@@ -51,8 +51,3 @@ I am a Computer Engineering graduate passionate about **Application Development,
 * **Tools:** Git/Github, Docker, Postman, Figma
 * **Database Management:** MySQL, MSSQL, PostgreSQL, MongoDB
 
----
-
-👉 Artık README’n hem **kişisel özet**, hem **projeler**, hem de **skills** bölümüyle çok daha dolu ve profesyonel görünüyor.
-
-İstersen ben sana bir sonraki adımda **README’ye görsellik katmak için badge (teknoloji ikonları) eklenmiş versiyon** da hazırlayabilirim. İstiyor musun?
