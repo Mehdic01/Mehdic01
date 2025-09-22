@@ -1,12 +1,23 @@
 # Hello, I'm Mehdi! 👋
 
-I am a Computer Engineering graduate passionate about **Application Development, Backend Development, Frontend Development and AI concepts**. 🚀
+I am a Computer Engineering graduate with a deep passion for application development, backend engineering, frontend design, and artificial intelligence concepts. Throughout my academic journey and personal projects, I have gained hands-on experience in building scalable full-stack applications, designing efficient database architectures, and exploring AI-driven solutions that address real-world problems. I enjoy combining creativity with technical expertise to deliver impactful software solutions and continuously strive to expand my knowledge in cutting-edge technologies. 🚀
 
 ## 🔹 About Me
 
 * 🌱 I am currently working on fullstack and AI-based web/mobile applications.
 * 💡 Interested in AI-driven applications and mobile/web development.
 * 🎯 Goal: Building impactful full-stack applications with some AI features that solve real world problems.
+
+
+## 🛠️Technical Skills
+
+* **Programming:** Python, Java, Dart, JavaScript, HTML/CSS
+* **Backend Frameworks:** Node.js, Express.js, Django, Flask, FastAPI, Spring Boot
+* **Frontend Frameworks:** Flutter, React.js/Redux 
+* **Tools:** Git/Github, Docker, Postman, Figma, OpenAI API
+* **Database Management:** MySQL, MSSQL, PostgreSQL, SQLite, MongoDB
+
+
 
 ## 🔹 My Key Projects
 
@@ -33,9 +44,9 @@ I am a Computer Engineering graduate passionate about **Application Development,
 
 ## 🔹 My Interests
 
-* Artificial Intelligence 🤖
-* Image Processing 📷
-* Web & Mobile Development 📱
+* Artificial Intelligence 
+* Image Processing 
+* Web & Mobile Development 
 * ML/DL Algorithms
 
 ## 📫 Reach Me
@@ -43,11 +54,5 @@ I am a Computer Engineering graduate passionate about **Application Development,
 * ✉️ Email: [mehdinov16@gmail.com](mailto:mehdinov16@gmail.com)
 * 🌐 LinkedIn: [https://www.linkedin.com/in/mehdimohammadi57/](https://www.linkedin.com/in/mehdimohammadi57/)
 
-## 🛠️ Skills
 
-* **Programming:** Python, Java, Dart, JavaScript, HTML/CSS
-* **Backend Frameworks:** Flask, Django, Spring Boot, Node.js, FastAPI
-* **Frontend Frameworks:** Flutter, React.js
-* **Tools:** Git/Github, Docker, Postman, Figma
-* **Database Management:** MySQL, MSSQL, PostgreSQL, MongoDB
 
