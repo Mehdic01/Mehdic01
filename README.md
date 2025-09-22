@@ -1,6 +1,6 @@
 # Hello, I'm Mehdi! 👋
 
-I am a Computer Engineering graduate with a deep passion for application development, backend engineering, frontend design, and artificial intelligence concepts. Throughout my academic journey and personal projects, I have gained hands-on experience in building scalable full-stack applications, designing efficient database architectures, and exploring AI-driven solutions that address real-world problems. I enjoy combining creativity with technical expertise to deliver impactful software solutions and continuously strive to expand my knowledge in cutting-edge technologies. 🚀
+I am a Computer Engineering graduate with a deep passion for application development, backend engineering, frontend design, and artificial intelligence concepts. Throughout my academic journey and personal projects, I have gained hands-on experience in building scalable full-stack applications, designing efficient database architectures, and exploring AI-driven solutions that address real-world problems. I enjoy combining creativity with technical expertise to deliver impactful software solutions and continuously strive to expand my knowledge in cutting-edge technologies. 
 
 ## 🔹 About Me
 
