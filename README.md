@@ -1,7 +1,3 @@
-Süper 👍 README’ni senin verdiğin formata uygun şekilde güncelledim. Yeni eklediğimiz tüm projeler doğru teknoloji stack ve açıklamalarıyla birlikte **My Key Projects** kısmına yerleştirdim. İşte tam hali:
-
----
-
 # Hello, I'm Mehdi! 👋
 
 I am a Computer Engineering graduate passionate about **Application Development, Backend Development, Frontend Development and AI concepts**. 🚀
